@@ -35,3 +35,23 @@ models/*.onnx
 
 # Logs
 *.log
+
+# Dataset archive
+data/*.zip
+
+# Training and experiment results
+runs/
+
+# Pretrained model cache
+yolo11n.pt
+
+# Prepared YOLO dataset
+data/yolo/images/
+data/yolo/labels/
+data/yolo/*.cache
+
+# Raw dataset
+data/Supermarket shelves/
+
+# Training and prediction runs
+runs/

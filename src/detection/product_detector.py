@@ -7,7 +7,7 @@ from pathlib import Path
 from ultralytics import YOLO
 
 
-DEFAULT_MODEL = "yolo11n.pt"
+DEFAULT_MODEL = "models/retailvision_v2.pt"
 
 
 class ProductDetector:

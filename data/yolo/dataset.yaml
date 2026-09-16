@@ -1,0 +1,8 @@
+path: C:/Users/Admin/OneDrive/Desktop/RetailVision/data/yolo
+
+train: images/train
+val: images/val
+
+names:
+  0: Product
+  1: Price
