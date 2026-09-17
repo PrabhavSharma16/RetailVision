@@ -240,7 +240,7 @@ The final validation run was performed using:
 
 Image size: 640 × 640
 Validation batch size: 1
-Validation images: 8
+Validation images: 9
 
 Final evaluation results:
 
