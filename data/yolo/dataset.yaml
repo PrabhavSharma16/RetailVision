@@ -1,5 +1,4 @@
-path: C:/Users/Admin/OneDrive/Desktop/RetailVision/data/yolo
-
+path: data/yolo
 train: images/train
 val: images/val
 
