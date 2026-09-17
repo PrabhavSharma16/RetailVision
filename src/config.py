@@ -12,7 +12,7 @@ OUTPUTS_DIR = BASE_DIR / "outputs"
 
 
 # Input / output paths
-INPUT_DIR = DATA_DIR / "images"
+INPUT_DIR = DATA_DIR / "input"
 OUTPUT_DIR = OUTPUTS_DIR / "detections"
 
 
